@@ -76,14 +76,14 @@ sudo python3 FaceID.py
     -Permitir acceso → el servo abre la cerradura
     -Denegar acceso → no se acciona el servo
 
-**Video del sistema funcionando:** https://drive.google.com/file/d/1U9nwENHHrGvJwqEb6x_0-VaViSxekB76/view?usp=sharing
-
 ### 👤 Registro de nuevos usuarios
    
 1. Presionar Registrar nuevo rostro en la web.
 2. Ingresar el nombre del usuario.
 3. Presionar el botón físico.
 4. El rostro queda almacenado para futuros reconocimientos.
+
+**Video del sistema funcionando:** https://drive.google.com/file/d/1U9nwENHHrGvJwqEb6x_0-VaViSxekB76/view?usp=sharing
 
 ## 🧩 Componentes utilizados
 ### Hardware
