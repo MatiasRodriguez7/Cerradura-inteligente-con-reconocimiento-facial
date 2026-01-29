@@ -40,8 +40,8 @@ La comunicación entre la Raspberry Pi y la interfaz web se realiza mediante el 
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/NachoFaccipieri/TP2
-cd TP2/EntregaFinal
+git clone https://github.com/MatiasRodriguez7/Cerradura-inteligente-con-reconocimiento-facial
+cd Cerradura-inteligente-con-reconocimiento-facial/EntregaFinal
 ```
 2. Crear y activar un entorno virtual::
 ```bash
