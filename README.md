@@ -75,6 +75,7 @@ sudo python3 FaceID.py
 4. Desde la web se puede:
     -Permitir acceso → el servo abre la cerradura
     -Denegar acceso → no se acciona el servo
+**Video del sistema funcionando: ** https://drive.google.com/file/d/1U9nwENHHrGvJwqEb6x_0-VaViSxekB76/view?usp=sharing
 
 ### 👤 Registro de nuevos usuarios
    
