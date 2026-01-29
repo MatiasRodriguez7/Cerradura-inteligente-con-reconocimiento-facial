@@ -2,7 +2,7 @@
 
 ## 📖 Descripción
 
-Este proyecto consiste en un **sistema de control de acceso mediante reconocimiento facial**, desarrollado como trabajo práctico para la materia *Taller de Proyecto II*.  
+Este proyecto consiste en un **sistema de control de acceso mediante reconocimiento facial**, desarrollado como trabajo final para la materia *Taller de Proyecto II*.  
 El objetivo es implementar una solución **de bajo costo**, inspirada en productos comerciales como **Face ID de Apple**, **Ring de Amazon** o **Google Nest**, utilizando hardware accesible y software de código abierto.
 
 El sistema permite:
