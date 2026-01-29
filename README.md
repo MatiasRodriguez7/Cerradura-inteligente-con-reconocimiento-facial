@@ -90,7 +90,7 @@ sudo python3 FaceID.py
 * Servomotor SG90
 * LED RGB
 * Botón físico
-* Fuente de alimentación 5V
+* Fuente de alimentación 5V 2A
 
 ### Software
 * Python 3
